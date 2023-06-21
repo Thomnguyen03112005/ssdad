@@ -19,25 +19,10 @@ Messages:
         duration: 9999
         end: 6
     # Message sent before registration
-    before-register:
-      title: "&a&lWELCOME!"
-      subtitle: "&7Use: /register <your password> <your password>"
-      delays:
-        start: 0
-        duration: 9999
-        end: 6
     # Message sent after login
     after-login:
       title: ""
-      subtitle: "&aYou have successfully logged in!"
-      delays:
-        start: 0
-        duration: 60
-        end: 6
-    # Message sent after register
-    after-register:
-      title: ""
-      subtitle: "&aYou have successfully registered!"
+      subtitle: "&aBạn đã đăng nhập thành công!"
       delays:
         start: 0
         duration: 60
